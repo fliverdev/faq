@@ -1,3 +1,3 @@
 # FAQ
 
-Frequently asked questions for Fliver Rider
+Frequently asked questions for Fliver
